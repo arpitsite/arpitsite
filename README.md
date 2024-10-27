@@ -5,7 +5,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=12,13,14,15,16,17,18,19,20,21,22,23,24&text=Hi,%20I'm%20Arpit&fontSize=60&fontColor=fff&animation=fadeIn&2desc=&descSize=20&descAlignY=70)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
