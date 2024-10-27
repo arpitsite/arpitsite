@@ -30,21 +30,19 @@
 
 
 <div align="center">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/arpit-singh-231358321/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="50"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://x.com/arpitsinghdev" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="50"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.instagram.com/official__harsh89/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" width="50"/>
   </a>
-  <a href="" target="_blank">
+  <a href="arpit@arpitsingh.work@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="50"/>
   </a>
-  <a href="" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto&theme=dark" alt="DevTo" width="50"/>
-  </a>
+ 
 </div>
 <br/>
 <h2>🚀 Tech Stack</h2>
